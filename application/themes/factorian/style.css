@@ -1,0 +1,45 @@
+.navbar-nav
+{
+	 text-transform: uppercase;
+
+}
+.navbar-brand
+{
+	text-transform: uppercase;
+}
+.navbar-default
+{
+	 margin:0px;
+}
+.diapo
+{
+	margin-bottom: 8%;
+}
+.coltrois
+{
+	margin-bottom: 8%;
+}
+.CTA
+{
+	background-color: #222222;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-bottom: 5%;
+	color:#FFF;
+}
+
+footer
+{
+	background-color: #222222;
+	color:white;
+}
+li{
+	list-style: none;
+
+}
+button
+{
+	text-transform: uppercase;
+}
+ul.nav { list-style: none; }
+ul.nav li { float: left; }
